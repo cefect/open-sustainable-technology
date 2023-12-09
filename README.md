@@ -538,8 +538,8 @@ energy system designs and analysis of interactions between technologies.
 - [OpenStudio](https://github.com/NREL/OpenStudio) - A cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
 - [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) - An open source Python server to deploy energy management solutions for buildings.
 - [SEED](https://github.com/SEED-platform/seed) - Standard Energy Efficiency Data Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.
-- [HPWHsim](https://github.com/EcotopeResearch/HPWHsim) - An open source simulation model for Heat Pump Water Heaters (HPWH).
-- [OpenStudio-ERI](https://github.com/NREL/OpenStudio-ERI) - Calculates an Energy Rating Index (ERI) via an OpenStudio/EnergyPlus-based workflow. Building information is provided through an HPXML file.
+- [HPWHsim](https://github.com/EcotopeResearch/HPWHsim) - An open source simulation model for Heat Pump Water Heaters.
+- [OpenStudio-ERI](https://github.com/NREL/OpenStudio-ERI) - Calculates an Energy Rating Index via an OpenStudio/EnergyPlus-based workflow. Building information is provided through an HPXML file.
 - [OpenStudio-HPXML](https://github.com/NREL/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML.
 - [AixLib](https://github.com/RWTH-EBC/AixLib) - A Modelica model library for building performance simulations.
 - [TEASER](https://github.com/RWTH-EBC/TEASER) - Tool for Energy Analysis and Simulation for Efficient Retrofit.
@@ -585,7 +585,6 @@ energy system designs and analysis of interactions between technologies.
 - [Kiva](https://github.com/bigladder/kiva) - Used to calculate heat loss and gain on a timestep basis from building foundations.
 - [Macquette](https://gitlab.com/retrofitcoop/macquette) - A whole house energy assessment tool, which models a building to produce a report to help householders under how their home performs now in terms of energy use and how it might be improved.
 - [Urban Multi-scale Environmental Predictor](https://github.com/UMEP-dev/UMEP) - A climate service tool, designed for researchers and service providers presented as a plugin for QGIS.
-- [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [eensight](https://github.com/hebes-io/eensight) - This Python package implements the measurement and verification (M&V) methodology that has been developed by the H2020 project SENSEI - Smart Energy Services to Improve the Energy Efficiency of the European Building Stock.
 - [PointER](https://github.com/kdmayer/PointER) - A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics.
 - [predyce](https://gitlab.com/polito-edyce-prelude/predyce) - Is the natural evolution of the conventional Energy Performance Certification into real time optimization of building performance and comfort, by capturing the building's dynamic behaviour, and at the same time providing transparent feedback, through an intuitive interface.
@@ -1523,7 +1522,9 @@ energy system designs and analysis of interactions between technologies.
 - [uDALES](https://github.com/uDALES/u-dales) - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
+- [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
+
 
 
 ### Climate Data Standards 
