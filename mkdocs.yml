@@ -13,6 +13,7 @@ nav:
   - Contribute: contributing.md
   - Blog:
       2023: 
+        - "Open Source Ecosyste.ms Download Statistics in Sustainability" : blog/download_numbers.md
         - "The Open Source Sustainability Ecosystem"  : blog/the_open_source_sustainability_ecosystem.md
       2022:
         - "You can preserve the Earth's livability with open source" : blog/you_can_preserve_the_earth_s_livability_with_open_source.md  
@@ -22,6 +23,9 @@ nav:
         - "Open Principles for a Sustainable Technology Transition": blog/open_principles_for_a_sustainable_technology_transition.md
       2020:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
+
+plugins:
+  - plotly
 
 theme:
   name: 'material'
@@ -52,6 +56,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: plotly
+          class: mkdocs-plotly
+          format: !!python/name:mkdocs_plotly_plugin.fences.fence_plotly
 
 extra:
   generator: false
